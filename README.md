@@ -5,7 +5,9 @@
   
   
 # Generalidades
-Los datos usados para el siguiente analisis fueron gracias al website de ***datos abiertos del Area metropolitana del Valle de Aburra*** con la finalidad de entender y analizar a traves  de los datos la problematica que se presento este ultimo año en la ciudad de Medellin .
+Los datos usados para el siguiente analisis fueron gracias al sitio web  ***datos abiertos del Area metropolitana del Valle de Aburra*** ,  con la finalidad de entender y analizar a traves  de los datos la problematica que se presento este ultimo año en la ciudad de Medellin .
+    **Fecha de Inicio :** 07/11/2018
+    **Fecha de Final  :** 07/11/2019
 
 # Descripcion de Notebooks
   1.  **Datos de calidad del aire :** En este primer Notebook se realiza la etapa de importación y procesamiento de los datos que posteriormente seran utilizados para la creacion de los mapas interactivos
