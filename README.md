@@ -20,7 +20,10 @@ Los datos usados para el siguiente analisis fueron gracias al sitio web  ***dato
   
   2. **Mapas interactivos :** En este Notebook se analiza el comportamiento del Ozono y del PM2.5 por estaciones a su vez se hace el analis exploratorio ***(EDA)*** para tener una idea del comportamiento de nuestros datos antes de la creacion de los mapas .
 
-
 # Mapas interactivos Gif
-  * Mapa interactivo por hora de calidad del aire promedio (https://github.com/alexbonella/Calidad-del-Aire-Medellin/blob/master/O3_medellin.gif)
+
+  * Mapa interactivo por hora de calidad del aire promedio 
+
+![Screenshot (217)](https://github.com/alexbonella/Calidad-del-Aire-Medellin/blob/master/O3_medellin.gif)
+
 
